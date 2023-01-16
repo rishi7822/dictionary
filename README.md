@@ -24,3 +24,7 @@ popitem()	Removes the last inserted key-value pair
 setdefault()	Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
 update()	Updates the dictionary with the specified key-value pairs
 values()	Returns a list of all the values in the dictionary
+
+
+
+#there will be various program related to dictionary methods() so please check the dictionary repostritary 
